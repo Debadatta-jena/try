@@ -116,29 +116,18 @@ export default function Hero() {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ delay: 0.5, duration: 0.8 }}
-            className="flex flex-col sm:flex-row gap-4 justify-center"
+            className="flex justify-center"
           >
             <motion.div
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
             >
               <Link
-                href="/about"
+                href="#gallery"
                 className="inline-flex items-center justify-center px-8 py-3 bg-white text-slate-900 rounded-lg font-semibold hover:bg-white/90 transition-all hover:scale-105 hover-glow"
               >
-                Explore Our Story
-                <ArrowRight className="ml-2 w-5 h-5" />
-              </Link>
-            </motion.div>
-            <motion.div
-              whileHover={{ scale: 1.05 }}
-              whileTap={{ scale: 0.95 }}
-            >
-              <Link
-                href="/gallery"
-                className="inline-flex items-center justify-center px-8 py-3 bg-white/10 text-white border border-white/20 rounded-lg font-semibold hover:bg-white/20 transition-all hover:scale-105 backdrop-blur-sm hover-glow"
-              >
                 View Gallery
+                <ArrowRight className="ml-2 w-5 h-5" />
               </Link>
             </motion.div>
           </motion.div>
