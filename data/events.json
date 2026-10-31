@@ -1,0 +1,52 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "title": "Annual Summer Reunion",
+      "description": "Our yearly gathering at the ancestral home. Bring your favorite dish and your best stories! Games, swimming, and a bonfire to close the night.",
+      "date": "2025-07-19",
+      "location": "Mitchell Family Estate, 124 Heritage Lane",
+      "image": "/images/timeline/reunion2000.jpg"
+    },
+    {
+      "id": "2",
+      "title": "Grandma Rose's Birthday Remembrance",
+      "description": "A special gathering to honor Grandma Rose's legacy. We'll bake her famous apple pie and share our favorite memories of her.",
+      "date": "2025-09-05",
+      "location": "Family Home, 124 Heritage Lane",
+      "image": "/images/timeline/rose-born.jpg"
+    },
+    {
+      "id": "3",
+      "title": "Thanksgiving Feast",
+      "description": "The annual Mitchell Thanksgiving celebration. Everyone is welcome to contribute a dish and spend the day in gratitude and laughter.",
+      "date": "2025-11-27",
+      "location": "Family Home, 124 Heritage Lane",
+      "image": "/images/gallery/thanksgiving.jpg"
+    },
+    {
+      "id": "4",
+      "title": "Christmas Eve Caroling",
+      "description": "Join us for an evening of caroling through the neighborhood, followed by hot cocoa and cookie decorating.",
+      "date": "2025-12-24",
+      "location": "Mitchell Family Estate, 124 Heritage Lane",
+      "image": "/images/gallery/christmas.jpg"
+    },
+    {
+      "id": "5",
+      "title": "Liam's Birthday Party",
+      "description": "Liam turns 17! Join us for a soccer-themed celebration with barbecue and games.",
+      "date": "2025-12-02",
+      "location": "Riverside Park",
+      "image": "/images/gallery/soccer.jpg"
+    },
+    {
+      "id": "6",
+      "title": "Sarah's Spring Art Show",
+      "description": "Sarah's annual exhibition featuring new works inspired by family heritage. All are welcome to attend the opening reception.",
+      "date": "2026-04-10",
+      "location": "Downtown Art Gallery",
+      "image": "/images/gallery/artexhibition.jpg"
+    }
+  ]
+}

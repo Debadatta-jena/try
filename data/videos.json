@@ -1,0 +1,58 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "title": "Our Family Documentary",
+      "description": "A heartwarming journey through the Mitchell family history, from 1950 to today. Featuring interviews with Arthur, Eleanor, and the grandkids.",
+      "src": "/videos/family-documentary.mp4",
+      "thumbnail": "/images/gallery/reunion2023.jpg",
+      "date": "2023-12-25",
+      "duration": "28:45"
+    },
+    {
+      "id": "2",
+      "title": "Emma's Graduation Speech",
+      "description": "An inspiring speech that moved the entire family to tears.",
+      "src": "/videos/graduation-speech.mp4",
+      "thumbnail": "/images/gallery/graduation.jpg",
+      "date": "2023-06-10",
+      "duration": "4:30"
+    },
+    {
+      "id": "3",
+      "title": "Liam's Soccer Highlights",
+      "description": "Best moments from the championship season, including the winning goal.",
+      "src": "/videos/soccer-highlights.mp4",
+      "thumbnail": "/images/gallery/soccer.jpg",
+      "date": "2024-03-20",
+      "duration": "6:15"
+    },
+    {
+      "id": "4",
+      "title": "50th Anniversary Celebration",
+      "description": "Highlights from Arthur and Eleanor's golden anniversary party.",
+      "src": "/videos/anniversary.mp4",
+      "thumbnail": "/images/gallery/anniversary.jpg",
+      "date": "2022-06-15",
+      "duration": "12:20"
+    },
+    {
+      "id": "5",
+      "title": "Thanksgiving Memories Compilation",
+      "description": "A montage of Thanksgivings past, featuring Grandma Rose's famous pumpkin pie recipe.",
+      "src": "/videos/thanksgiving.mp4",
+      "thumbnail": "/images/gallery/thanksgiving.jpg",
+      "date": "2023-11-23",
+      "duration": "8:00"
+    },
+    {
+      "id": "6",
+      "title": "James's World Music Journey",
+      "description": "James performs songs he learned during his travels, sharing stories from each country.",
+      "src": "/videos/james-music.mp4",
+      "thumbnail": "/images/gallery/artexhibition.jpg",
+      "date": "2024-02-14",
+      "duration": "15:45"
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "year": "1923",
+      "title": "Grandpa Henry Born",
+      "description": "Henry Mitchell was born in a small farming town. He would grow up to become the resilient foundation of our family.",
+      "image": "/images/timeline/henry-born.jpg"
+    },
+    {
+      "id": "2",
+      "year": "1925",
+      "title": "Grandma Rose Born",
+      "description": "Rose was born with a spirit as bright as her name. Her kindness and warmth became the heart of the Mitchell family.",
+      "image": "/images/timeline/rose-born.jpg"
+    },
+    {
+      "id": "3",
+      "year": "1946",
+      "title": "Henry and Rose Wed",
+      "description": "After the war, Henry returned home and married his sweetheart. They built their first home with his own hands.",
+      "image": "/images/timeline/wedding.jpg"
+    },
+    {
+      "id": "4",
+      "year": "1950",
+      "title": "Arthur Mitchell Born",
+      "description": "Their first child, Arthur, was born. He would go on to become the patriarch of the next generation.",
+      "image": "/images/timeline/arthur-born.jpg"
+    },
+    {
+      "id": "5",
+      "year": "1975",
+      "title": "Arthur Marries Eleanor",
+      "description": "Arthur married Eleanor, a kind-hearted nurse. They moved into the family home and started their own chapter.",
+      "image": "/images/timeline/arthur-wedding.jpg"
+    },
+    {
+      "id": "6",
+      "year": "1975",
+      "title": "David Mitchell Born",
+      "description": "The first grandchild of Henry and Rose, David brought immense joy to the family.",
+      "image": "/images/timeline/david-born.jpg"
+    },
+    {
+      "id": "7",
+      "year": "1982",
+      "title": "James Mitchell Born",
+      "description": "The youngest of Arthur and Eleanor's three children, James arrived with a song in his heart.",
+      "image": "/images/timeline/james-born.jpg"
+    },
+    {
+      "id": "8",
+      "year": "2000",
+      "title": "Grand Millennium Reunion",
+      "description": "The entire family gathered for a historic reunion. Over 40 relatives came together to welcome the new millennium.",
+      "image": "/images/timeline/reunion2000.jpg"
+    },
+    {
+      "id": "9",
+      "year": "2005",
+      "title": "Grandpa Henry Passes",
+      "description": "Henry passed away peacefully at home, surrounded by family. His legacy of hard work and integrity lives on.",
+      "image": "/images/timeline/henry-passing.jpg"
+    },
+    {
+      "id": "10",
+      "year": "2005",
+      "title": "Emma Mitchell Born",
+      "description": "A new light entered our lives. Emma was born to David and Laura, the first of generation three.",
+      "image": "/images/timeline/emma-born.jpg"
+    },
+    {
+      "id": "11",
+      "year": "2008",
+      "title": "Liam Mitchell Born",
+      "description": "Liam arrived with energy and spirit, completing the next generation of Mitchells.",
+      "image": "/images/timeline/liam-born.jpg"
+    },
+    {
+      "id": "12",
+      "year": "2010",
+      "title": "Grandma Rose Passes",
+      "description": "Rose joined Henry, leaving behind a legacy of love, recipes, and memories that will never fade.",
+      "image": "/images/timeline/rose-passing.jpg"
+    },
+    {
+      "id": "13",
+      "year": "2020",
+      "title": "Digital Archive Project Launched",
+      "description": "Emma started scanning old photos and recording family stories, laying the groundwork for this digital heritage archive.",
+      "image": "/images/timeline/digital-archive.jpg"
+    },
+    {
+      "id": "14",
+      "year": "2024",
+      "title": "Heritage Website Goes Live",
+      "description": "The Mitchell family heritage website launches, connecting generations past, present, and future.",
+      "image": "/images/timeline/website-launch.jpg"
+    }
+  ]
+}
